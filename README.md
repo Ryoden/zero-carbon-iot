@@ -1,5 +1,5 @@
-# zero-carbon-tracker
-The reference design for Zero Carbon Tracker.
+# zero-carbon-iot
+The reference design for Zero Carbon IoT.
 
 本サイトは、以下の目的でリファレンスデザインを公開しています。
 
@@ -17,7 +17,7 @@ Zero Carbon Solution とは、LoRaWANを活用したカーボンニュートラ�
 ![zero-carbon-solution](images/zero-carbon-solution.png)
 
 
-## Zero Carbon Tracker
+## Zero Carbon IoT
 本サイトでは以下のファイルを公開しています。
 
 ### リファレンス回路図
