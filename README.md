@@ -23,13 +23,13 @@ Zero Carbon Solution とは、LoRaWANを活用したカーボンニュートラ�
 ### リファレンス回路図
 ゼロカーボンソリューションを活用するための基本設計回路です。 [CD-8084001-ZCI_211007.pdf](https://github.com/Ryoden/zero-carbon-tracker/raw/main/files/CD-8084001-ZCI_211007.pdf)
 
-* RF部は、Semtech製LR1110を搭載し、LoRa＠通信及びGNNS、WiFiスキャンを可能にする高周波デザイン。
+* RF部は、Semtech製LR1110を搭載し、 LoRa 通信及びGNNS、WiFiスキャンを可能にする高周波デザイン。
 * ベースバンド部はルネサスエレクトロニクス製RE01マイコン（超低消費マイコン）を搭載し、エネルギーハーベストシステム及び低消費電力制御によるゼロカーボンデザイン。
 
 ### リファレンスBOMリスト
 ゼロカーボンソリューションを実現する基本設計回路の部品リストです。 [BM-8084001-ZCI_211012.xlsx](https://github.com/Ryoden/zero-carbon-tracker/raw/main/files/BM-8084001-ZCI_211012.xlsx)
 
-* 主要部品：Semtech製LR111　ルネサスエレクトロニクス製RE01マイコン
+* 主要部品：Semtech製LR1110　ルネサスエレクトロニクス製RE01マイコン
 
 ### リファレンス基板デザイン
 ゼロカーボンソリューションのリファレンス回路図を具現化する基板デザインです。 [PC-8084001_ZCI_211007.pdf](https://github.com/Ryoden/zero-carbon-tracker/raw/main/files/PC-8084001_ZCI_211007.pdf)
