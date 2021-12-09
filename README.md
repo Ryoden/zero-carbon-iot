@@ -29,7 +29,7 @@ Zero Carbon Solution とは、LoRaWAN®を活用したカーボンニュート�
 ### リファレンスBOMリスト
 ゼロカーボンソリューションを実現する基本設計回路の部品リストです。 [ZeroCarbonLoRaIoT(BOM)_Rev1.0.xlsx](https://github.com/Ryoden/zero-carbon-tracker/raw/main/files/ZeroCarbonLoRaIoT(BOM)_Rev1.0.xlsx)
 
-* 主要部品：Semtech製 [LR1110](https://www.semtech.com/products/wireless-rf/lora-edge/lr1110) ルネサスエレクトロニクス製 [RE01マイコン](https://www.renesas.com/products/microcontrollers-microprocessors/re-cortex-m-ultra-low-power-sotb-mcus/re01-256kb-705-ulpmark-cp-score-global-top-class-ultra-low-power-mcu-based-sotb-process-technology)
+* 主要部品：Semtech製 [LR1110](https://www.semtech.com/products/wireless-rf/lora-edge/lr1110) ルネサスエレクトロニクス製 [RE01マイコン](https://www.renesas.com/products/microcontrollers-microprocessors/re-cortex-m-ultra-low-power-sotb-mcus)
 
 ### リファレンス基板デザイン
 ゼロカーボンソリューションのリファレンス回路図を具現化する基板デザインです。 [ZeroCarbonLoRaIoT(PCB)_Rev1.0.pdf](https://github.com/Ryoden/zero-carbon-tracker/raw/main/files/ZeroCarbonLoRaIoT(PCB)_Rev1.0.pdf)
